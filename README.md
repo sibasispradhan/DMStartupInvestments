@@ -1,2 +1,2 @@
-# ClusteringAnalysisStartUpCompanies
-Clustering Analysis for Start-up Companies
+# ClusteringAnalysisStartUpInvestments
+Clustering Analysis for Start-up Investments Companies
